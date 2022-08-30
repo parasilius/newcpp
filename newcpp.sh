@@ -1,0 +1,1 @@
+newcpp() { echo "#include <iostream>" >> test.cpp && echo "" >> test.cpp && echo "using namespace std;" >> test.cpp && echo "" >> test.cpp && echo "int main()" >> test.cpp && echo "{" >> test.cpp && echo "}" >> test.cpp }
