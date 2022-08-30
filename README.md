@@ -1,5 +1,5 @@
 # newcpp
-`newcpp()`: This function creates a new `test.cpp` file in the working 
+`newcpp()` function creates a new `test.cpp` file in the working 
 directory with the following code in it:
 
 ```C
